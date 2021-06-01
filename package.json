@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page for natours travel company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thapaRoyal/Natours.git"
+  },
+  "author": "thapaRoyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thapaRoyal/Natours/issues"
+  },
+  "homepage": "https://github.com/thapaRoyal/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
